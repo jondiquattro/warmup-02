@@ -1,0 +1,27 @@
+{
+  "name": "warmup-02",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jondiquattro/warmup-02.git"
+  },
+  "author": "jon diquattro",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jondiquattro/warmup-02/issues"
+  },
+  "homepage": "https://github.com/jondiquattro/warmup-02#readme",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
+    "jest": "^23.6.0",
+    "lint": "^1.1.2",
+    "nodemon": "^1.18.9",
+    "travis": "^0.1.1"
+  }
+}
